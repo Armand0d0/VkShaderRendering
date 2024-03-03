@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+e72c958825193bdb31f8abd256efa758 Hologram/HelpersDispatchTable.cpp
+edb007cafe390beada4ddcc39f1cf36f Hologram/HelpersDispatchTable.h
+5c6cb18270776cb9c7168cde767ba140 Hologram/Hologram.frag.h
+afb8eae1321a59f27cdb5f0fe5773e98 Hologram/Hologram.push_constant.vert.h
+cb3b86d8baa4a0f2a313b807393c7347 Hologram/Hologram.vert.h

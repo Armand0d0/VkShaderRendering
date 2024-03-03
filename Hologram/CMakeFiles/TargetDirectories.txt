@@ -1,0 +1,7 @@
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/install/strip.dir
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/install/local.dir
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/edit_cache.dir
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/Hologram.dir
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/rebuild_cache.dir
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/install.dir
+/home/armand/..dev/Vulkan/1.2.162.1/samples/Sample-Programs/Hologram/CMakeFiles/list_install_components.dir

@@ -1,0 +1,13 @@
+/home/armand/..dev/VkShaderRendering/CMakeFiles/install/strip.dir
+/home/armand/..dev/VkShaderRendering/CMakeFiles/install/local.dir
+/home/armand/..dev/VkShaderRendering/CMakeFiles/edit_cache.dir
+/home/armand/..dev/VkShaderRendering/CMakeFiles/rebuild_cache.dir
+/home/armand/..dev/VkShaderRendering/CMakeFiles/list_install_components.dir
+/home/armand/..dev/VkShaderRendering/CMakeFiles/install.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/install/strip.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/install/local.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/edit_cache.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/Hologram.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/rebuild_cache.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/install.dir
+/home/armand/..dev/VkShaderRendering/Hologram/CMakeFiles/list_install_components.dir
